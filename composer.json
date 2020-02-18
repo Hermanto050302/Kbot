@@ -1,5 +1,5 @@
 {
-    "name": "hermanto/hbot",
+    "name": "hermanto/kbot",
     "description": "Robot pintar pembantu ngoding",
     "require": {
         "php": "^7.2",
